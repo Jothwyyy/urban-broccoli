@@ -1,1 +1,1 @@
-print("LO LOGRE ;🦾")
+print("LO LOGRE 🦾")
